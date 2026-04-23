@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset (CIFAR-10)
+data/
+
+# OS files
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Zip files
+*.zip
